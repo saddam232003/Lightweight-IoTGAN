@@ -1,0 +1,2 @@
+chmod +x colab_qemu_setup.sh
+./colab_qemu_setup.sh
